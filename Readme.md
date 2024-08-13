@@ -19,4 +19,5 @@ node email.js
 user: 'ardailyreports@gmail.com',
 password: 'nqql brsi kyao vyga',
 
-
+user: 'nhbvdailyreports@gmail.com',
+password: 'uynu etxo okqy ckpa',
